@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🤓
 
-<!--
-**Gabrielysmonteiro/Gabrielysmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Gabriely Silveira Monteiro
+  
+- Sou estudante do altura e estou no ensino médio 
+- Estou me desenvolvendo na linguagem JavaScript
+- Irei utilizar essa página para compartilhar minhas programações 
 
-Here are some ideas to get you started:
+  ## Meios de contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gabrielysilveira2705@gmail.com 
+
+![](https://media1.tenor.com/m/l1zmfvFYrBEAAAAC/maki-zenin-jjk.gif)
